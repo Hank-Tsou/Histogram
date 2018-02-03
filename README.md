@@ -5,8 +5,8 @@
 >> This file include: </br>
 >>* Readme.md</br>
 >>* input image.jpg</br>
->>* (Question 1) histogram_equalization.py + output_image_a</br>
->>* (Question 1) compare.py and histo_equal_compare.py + output_image_b</br>
+>>* (Question 1) histogram_equalization.py</br>
+>>* (Question 1) compare.py and histo_equal_compare.py</br>
 
 >> #### (A) How to run the code [histogram_equalization.py]</br>
 >>> (a) Using the command prompt and direct to the file position. (my example)
