@@ -20,6 +20,7 @@
 >>> <pre>[image name(with .pnh .jpg): 'input_image.jpg']
 >>> The program will show the result include original image and equalized image.(output_image_a)
 
+>>> ![image](https://user-images.githubusercontent.com/28382639/35772541-3851f646-08f6-11e8-8efb-5f2e2605355e.png)
 
 >> #### (B) Compare with openCV function [compare.py + histo_equal_compare.py]
 >>> (a) Using the command prompt and direct to the file position. (my example)
