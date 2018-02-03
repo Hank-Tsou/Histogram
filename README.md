@@ -32,4 +32,5 @@
 >>> (c) The program will show the result include original image, equalized image,
 >>> equalized image by openCV function and their histogram graphs. (output_image_b)
 
-<img/https://drive.google.com/drive/folders/1OYtxgEVEfAjS0ZKIo_zG3mNVBz1KgZwn>
+>>> ![image](https://user-images.githubusercontent.com/28382639/35772547-76a6a16c-08f6-11e8-9abc-15edec446e5b.png)
+
