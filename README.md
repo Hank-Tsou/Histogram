@@ -8,15 +8,17 @@ File mame: histogram_equalization.py
 Input image: input_image.jpg
 Command line: python histogram_equalization.py -i input_image.jpg
 ```
-
+```
 The program will show the result image as below: 
-
+```
 ![image](https://user-images.githubusercontent.com/28382639/35772541-3851f646-08f6-11e8-8efb-5f2e2605355e.png)
 
 ```
 The result image compare to OpenCV build-in function show as below:
 ```
 ![image](https://user-images.githubusercontent.com/28382639/35772547-76a6a16c-08f6-11e8-9abc-15edec446e5b.png)
+
+The process for histogram equalization describe in ["Image Histogram"](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
 
 ## Code
 - [Image Histogram](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
