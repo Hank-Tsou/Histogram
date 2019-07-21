@@ -19,7 +19,7 @@ def Hist_Equal(img):
 
 	image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)# convert image to grayscal
 
-	# count values for each pixels(image histofram)
+	# count values for each pixels(image histogram)
 	x, y = image.shape 				# get image size x*y, for a image with x rows and y columns
 	histo = [0.0] * 256 			# Initializes a 256 array to hold the number of
 									# occurrences of each gray level
