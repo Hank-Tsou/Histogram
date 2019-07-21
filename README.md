@@ -2,7 +2,9 @@
 ```
 This project is trying to implement image histogram equalization.
 ```
-### Image Histogram Equalization
+- NOTE: The process for histogram equalization describe in ["Image Histogram"](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
+
+## Image Histogram Equalization
 ```
 File mame: histogram_equalization.py
 Input image: input_image.jpg
@@ -18,7 +20,8 @@ The result image compare to OpenCV build-in function show as below:
 ```
 ![image](https://user-images.githubusercontent.com/28382639/35772547-76a6a16c-08f6-11e8-9abc-15edec446e5b.png)
 
-The process for histogram equalization describe in ["Image Histogram"](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
+
+- NOTE: The process for histogram equalization describe in ["Image Histogram"](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
 
 ## Code
 - [Image Histogram](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/9_Image_Histogram)
